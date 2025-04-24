@@ -45,7 +45,7 @@ visio-clone/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/visio-clone.git
+   git clone https://github.com/GeorgeZa01/Elemental-Challenge.git
    ```
 2. Navigate into the project folder:
    ```bash
@@ -55,7 +55,8 @@ visio-clone/
 
 ## 📸 Screenshots
 
-*Add screenshots here if you'd like to show off your work!*
+![image](https://github.com/user-attachments/assets/92e373ec-08aa-46d2-9538-2535dcc3563d)
+
 
 ## 📈 Challenges Faced
 
